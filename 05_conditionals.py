@@ -1,5 +1,6 @@
 number1 = int(input("Please enter a number from 0 to 100: "))
 
+# conditionals
 if number1 < 100:
     print("Your number is within the range")
 
